@@ -14,7 +14,7 @@ export const config = {
     // 所在省份
     province: "上海",
     // 所在城市
-    city: "金山",
+    city: "上海",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "小宝", "year": "2004", "date": "02-15", "type": 'new'},
